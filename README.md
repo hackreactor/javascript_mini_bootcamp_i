@@ -20,5 +20,9 @@ No textbook is required for this workhop. All materials are included in this Git
 
 Laptop, Google Chrome browser and a text editor. If you do not have a text editor, we recommend Sublime Text, Atom or Visual Studio Code.
 
+## Slides
+
+The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vQgfKOpNno_Jn36n1OQm5f4-3VK1K1VJ0tFQNWISWWHlM3tXR0Wk6FNxtSHQlOOjbdqfCNcTV47ZEQ2/pub?start=false&loop=false&delayms=60000).
+
 ## Don't forget..
 You should throroughly read all of code in front of you and aim to understand line-by-line what is happening.
